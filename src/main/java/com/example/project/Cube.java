@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+//looks pretty good and fairly complete, just needs more user guidance features.
+
 public class Cube {
 
     public static void inputf(String [][][] Rcube) {
